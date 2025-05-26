@@ -8,10 +8,13 @@ body {
     margin: 0;
     padding: 20px;
     box-sizing: border-box;
+    background: url("https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+   
 }
 
 .container {
-    background-color: #ffffff;
+    background: rgba(0, 0, 0, 0.7);
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -21,12 +24,12 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #0ce8b1;
     margin-bottom: 20px;
 }
 
 p {
-    color: #666;
+    color: #09f5ce;
     margin-bottom: 25px;
 }
 
